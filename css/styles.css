@@ -1,0 +1,20 @@
+body {
+  background-color: #e5e0ff;
+}
+
+h1 {
+  color: #6c4ab6;
+  font-family: "Lucida";
+}
+
+hr {
+  background-color: #e5e0ff;
+  border-style: dotted none none;
+  border-color: #fff2f2;
+  border-width: 10px;
+  width: 100%;
+}
+
+h3 {
+  color: #8d72e1;
+}
